@@ -21,5 +21,5 @@ For person re-identification, we use the OSNet model, known for its omni-scale f
 - GitHub: [OSNet by KaiyangZhou](https://github.com/KaiyangZhou/deep-person-reid)
 
 ## Authors
-- Zhiyuan Li - Stanford University
 - Jiayang Wang - Stanford University
+- Zhiyuan Li - Stanford University
