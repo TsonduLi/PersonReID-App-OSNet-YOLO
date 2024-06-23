@@ -10,9 +10,6 @@ In this project, we:
 - **Object Detection with YOLOv8**: We integrate YOLOv8 for real-time person detection in video sequences.
 - **Application Development**: We build an application that takes a video sequence and a query image as input and outputs all occurrences of the queried person in the video.
 
-## Configuration
-We modified the configuration files from the original OSNet repository to perform two-step transfer learning. The new configuration files can be found in the configs folder.
-
 ## Models and Dependencies
 
 ### YOLOv8
@@ -22,3 +19,7 @@ We utilize the YOLOv8 model for object detection due to its high performance in 
 ### OSNet
 For person re-identification, we use the OSNet model, known for its omni-scale feature learning capabilities.
 - GitHub: [OSNet by KaiyangZhou](https://github.com/KaiyangZhou/deep-person-reid)
+
+## Authors
+- Zhiyuan Li - Stanford University
+- Jiayang Wang - Stanford University
